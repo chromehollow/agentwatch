@@ -1,7 +1,6 @@
 # AgentWatch — an agent that watches other agents
 
-**For Dre first, and for hiring managers who click the link.** Not a website for
-random users. A dashboard that proves you can build an agent, test it with evals,
+A dashboard that proves you can build an agent, test it with evals,
 guardrail it, and keep it running — the exact work in the Gauntlet / FDE /
 Applied AI roles you're applying for.
 
